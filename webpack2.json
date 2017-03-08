@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "charset":"UTF-8",
+    "module": "amd",
+    "rootDir":"src/",
+    "target": "es5",
+    "sourceMap": true,
+
+    "outDir":"bin/",
+
+    "removeComments":true,
+    "listFiles":true,
+    "allowJs":true
+  },
+ /* "files": [
+    "src/main.ts"
+  ],*/
+
+  "exclude": [
+    "node_modules"
+  ]
+
+
+}
+
